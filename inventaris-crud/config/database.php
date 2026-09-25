@@ -14,6 +14,7 @@ class Database
 
     // Konfigurasi koneksi — sesuaikan dengan environment kamu (XAMPP/Laragon)
     private const HOST    = 'localhost';
+    private const PORT    = '8111';
     private const DBNAME  = 'inventaris_db';
     private const USER    = 'root';
     private const PASS    = '';
